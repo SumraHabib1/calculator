@@ -1,0 +1,32 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+}
+.row{
+text-align: center;}
+.center{
+    text-align: center;
+}
+.btn{
+    
+
+    font-size: large;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+    flex-wrap: nowrap;
+
+}
+button{
+    padding: 1%;
+    margin: 0.8% 0.5%;
+}
+.row input{
+    text-align: center;
+    justify-items: center;
+padding: 0.1% 0.5%;
+
+}
